@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Simulation Results from Carla   
-## MPC implementation in autonomous driving 
-### Reinforcement Learning implementation on autonomous driving 
+Simulation Results from Carla   
+MPC implementation in autonomous driving 
+Reinforcement Learning implementation on autonomous driving 
 
 - Bulleted
 - List
