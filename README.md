@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Autonomous driving on Carla simulator using Reinforcement learning and Model Predictive Control 
 
 You can use the [editor on GitHub](https://github.com/ashishsaluja2020/intelligent-control/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
