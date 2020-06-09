@@ -16,7 +16,7 @@ MPC implementation in autonomous driving
 Reinforcement Learning implementation on autonomous driving 
 
 
-![Carla](/Capture.png)
+![Carla](Capture.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
