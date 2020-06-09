@@ -18,6 +18,7 @@ Reinforcement Learning implementation on autonomous driving
 
 ![Carla-3](Capture.PNG)
 
+This is the self driving car and its been done by Ashish Saluja
 
 ![self_driving](self-driving.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
