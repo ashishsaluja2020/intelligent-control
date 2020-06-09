@@ -25,7 +25,7 @@ Reinforcement Learning implementation on autonomous driving
 
 [Link](url) and ![Image](src)
 ```
-![Carla simulator ](C:/Users/Administrator/Desktop/Capture.png)
+![Carla simulator ](/images/Capture.png)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
