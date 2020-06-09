@@ -16,7 +16,7 @@ MPC implementation in autonomous driving
 Reinforcement Learning implementation on autonomous driving 
 
 
-![Carla](Capture.png)
+![Carla](https://github.com/ashishsaluja2020/intelligent-control/blob/master/Capture.PNG)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
