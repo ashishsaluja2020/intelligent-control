@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Carla simulator ](src = "C:\Users\Administrator\Desktop")
+![Carla simulator ](C:\Users\Administrator\Desktop)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
